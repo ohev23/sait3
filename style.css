@@ -1,0 +1,43 @@
+.banner{
+	background-image: url(banner.png);
+	background-size: 100% 100%;
+	height: 620px;
+	padding-top: 80px;
+}
+img{}
+.block{
+	width: 500px;
+	height: 150px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.parent{
+	height: 200px;
+	width: 1100px;
+	display: flex;
+	margin-right: auto;
+	margin-left: auto;
+}
+p{
+	font-family: Arial;
+	color: white;
+	font-size: 15px;
+}
+.help{
+	height: 150px;
+	width: 300px;
+	margin-left: 30px;
+	margin-top: 10px;
+	padding-left: 30px;
+}
+h3{
+	font-family: Arial;
+	color: black;
+	font-size: 18px;
+}
+h2{
+	font-family: Arial;
+	color:white;
+	font-size: 30px;
+}
